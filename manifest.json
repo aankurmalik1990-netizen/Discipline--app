@@ -1,13 +1,15 @@
 {
   "name": "Discipline — GSBV Radhey Shyam Park",
   "short_name": "Discipline",
-  "description": "School Discipline Management App",
+  "description": "School Discipline Management App for GSBV Radhey Shyam Park",
   "start_url": "/discipline-app/",
   "display": "standalone",
   "background_color": "#0f172a",
   "theme_color": "#0f172a",
   "orientation": "portrait",
   "scope": "/discipline-app/",
+  "lang": "hi",
+  "categories": ["education", "utilities"],
   "icons": [
     {
       "src": "/discipline-app/icon-192.png",
